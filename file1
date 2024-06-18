@@ -10,7 +10,10 @@ git push
 mkdir dir1
 cd .. back to diretory
 rm file name
-rm dirname  
+rm dirname
+............................
+branch commands
+....................  
 git dir1/file1
 git branch 
 git branch release1

@@ -7,3 +7,8 @@ git add
 git show
 git log
 git push
+mkdir dir1
+cd .. back to diretory
+rm file name
+rm dirname  
+git dir1/file1

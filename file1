@@ -1,0 +1,9 @@
+git config --global user.name
+git config --global user.email
+git config --global list
+git status
+git commit -m "label"
+git add
+git show
+git log
+git push

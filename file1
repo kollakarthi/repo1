@@ -18,8 +18,6 @@ git dir1/file1
 git branch 
 git branch release1
 git checkout main
-
-test1
-test2
-test3
+git push origin -d branch name  ..to dlete github  in branch
+git pull --rebase
 

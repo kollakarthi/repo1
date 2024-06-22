@@ -14,6 +14,7 @@ git push                      ...........to push the file github
 git branch                    ............to show the branches
 git branch branch name       ..............to create the branch
 git checkout branchname      ..............to move the particular branch
+git merge branchname         ..............to copy the branch
 git push origin -d branch name..............to delete branch in github
 rm filename                  ...............to delete locally file
 git pull                    .................if you have any changes github and use this command loacl machine

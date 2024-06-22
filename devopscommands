@@ -18,3 +18,6 @@ git merge branchname         ..............to copy the branch
 git push origin -d branch name..............to delete branch in github
 rm filename                  ...............to delete locally file
 git pull                    .................if you have any changes github and use this command loacl machine
+git log -------------------------to show the logs till date
+git log -2 ..................to show the last 2logs
+git log --oneline  ...to show the sweet and short just display id and label message

@@ -1,0 +1,19 @@
+gitcommands
+.........................
+git init                   ........to initlize repository
+git clone codecopy         ..........to clone repository
+git config --global user.name .....to create username
+git config --global user.mail .....to create gamil
+git config --global --unset user.name ...to delete name
+git config --global --unset user.mail ...to delete mail
+git add filename             .........to add the file working directory into stagging index
+git comit -m "label" file name..........to add file staging index into local repository
+git status                    ...........to check the status of files
+git show                      ...........to show the file loacl repository
+git push                      ...........to push the file github
+git branch                    ............to show the branches
+git branch branch name       ..............to create the branch
+git checkout branchname      ..............to move the particular branch
+git push origin -d branch name..............to delete branch in github
+rm filename                  ...............to delete locally file
+git pull                    .................if you have any changes github and use this command loacl machine
